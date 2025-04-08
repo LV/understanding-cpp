@@ -1,0 +1,6 @@
+#+TITLE: Understanding C++
+#+AUTHOR: Luis Victoria
+
+This repository's purpose is give you an understanding of how C++ works, in hopes it will aid in writing better C++ code.
+
+This repo assumes you know a bit about programming and computer science fundamentals, but not necessarily C++.
